@@ -1,14 +1,14 @@
 Package: jwi
-Version: 0.0.1-13+debug
+Version: 0.0.1-14+debug
 Architecture: iphoneos-arm64
 Maintainer: J_W_I_
 Installed-Size: 352
 Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
-Filename: ./debs/jwi_0.0.1-13+debug_iphoneos-arm64.deb
-Size: 11944
-MD5sum: 326ce81a51939556778436a9a48d0e58
-SHA1: a696941593096c1b69388bc4fc48bf1f898b555a
-SHA256: a53838009afa45b7f46b1dc3fa4f800bf6f64d489b32cc34faffa94c0e44e66d
+Filename: ./debs/jwi_0.0.1-14+debug_iphoneos-arm64.deb
+Size: 11972
+MD5sum: afee212da859c5345a87b9b547c7390f
+SHA1: 9e1bb243bd871060a9d57898687e8e070c64ba6d
+SHA256: 3116cecd151436a24fa8f72eb7d327a2d28bdda0f4371e6d0a29948de4c93699
 Section: Tweaks
 Description: Give your notifications style!
 Author: J_W_I_
