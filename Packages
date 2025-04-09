@@ -1,4 +1,20 @@
 Package: jwi
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
+Maintainer: JWI Master
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/jwi_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 6164
+MD5sum: 9af8b572bacef7de2ccf31aaea1c6a51
+SHA1: 881f7b5643a52ca41a14ee7ee5e9b07cd00fc94b
+SHA256: c0e19998e5c8d4584a6f7672a1cd999ef16f829dd02d4f7871cb4cbfc6a572fa
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: JWI Master
+Name: DVDBounce
+
+Package: jwi
 Version: 0.0.1-46+debug
 Architecture: iphoneos-arm64
 Maintainer: J_W_I_
