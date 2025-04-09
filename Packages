@@ -15,16 +15,16 @@ Author: JWI Master
 Name: DVDBounce
 
 Package: jwi
-Version: 0.0.1-49+debug
+Version: 0.0.1-50+debug
 Architecture: iphoneos-arm64
 Maintainer: J_W_I_
 Installed-Size: 352
 Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
-Filename: ./debs/jwi_0.0.1-49+debug_iphoneos-arm64.deb
-Size: 12290
-MD5sum: bfdf1dd767dbe5e3bb421d0bf61839f4
-SHA1: a2aa3525ac9ee512e55f5d83bc6d579e773cd9f6
-SHA256: 59a991770bc62eec3e7203db7b5ffa375063392d06f50ee887f9beff300f96db
+Filename: ./debs/jwi_0.0.1-50+debug_iphoneos-arm64.deb
+Size: 12294
+MD5sum: 81787371250efc115860cb5e9d0fa115
+SHA1: 845a73b7997a1046c5172552df896815e2f437d8
+SHA256: b4d6cb244788ebcde3452f1123cd3e134847fbfc86197bfacda17bc08c3ade3e
 Section: Tweaks
 Description: Give your notifications style!
 Author: J_W_I_
