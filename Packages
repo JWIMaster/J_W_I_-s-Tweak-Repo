@@ -1,14 +1,14 @@
 Package: jwi
-Version: 0.0.1-4+debug
+Version: 0.0.1-5+debug
 Architecture: iphoneos-arm64
 Maintainer: JWI Master
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/jwi_0.0.1-4+debug_iphoneos-arm64.deb
-Size: 6154
-MD5sum: c49e42e7fef93a0930f87c5b85efc3e1
-SHA1: f035e8e912c7620f46f15d16e34a58ce3f2870ee
-SHA256: 8243ee73b9ffbdcf5bdfb606c4c1914f6dd5bb9dcc0db5936775072c9d3ba267
+Filename: ./debs/jwi_0.0.1-5+debug_iphoneos-arm64.deb
+Size: 6162
+MD5sum: e34754ec5afee02d4531393090908ccb
+SHA1: d2e34f06e3e60f7c268a579a98950547f2f81c85
+SHA256: ee85330596cd0076d66cf3cc87267567d7b84bd47fb26e621539f862268862ce
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: JWI Master
