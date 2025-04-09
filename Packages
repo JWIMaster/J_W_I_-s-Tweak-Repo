@@ -1,16 +1,32 @@
-Package: jwi
-Version: 0.0.1-6+debug
+Package: bounce
+Version: 0.0.1-1+debug
 Architecture: iphoneos-arm64
 Maintainer: JWI Master
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/jwi_0.0.1-6+debug_iphoneos-arm64.deb
+Filename: ./debs/bounce_0.0.1-1+debug_iphoneos-arm64.deb
 Size: 6154
-MD5sum: 8a660748bcc3754ca54d709bc3aacaaa
-SHA1: 93950dd2428bde549181c9e022d7c57161fc81c6
-SHA256: 1fc2ece7696d8a5e6500516f71e3ebe69a0b7a14f723fafa509ee1553737dc21
+MD5sum: 14c30728269a05114242ddf50ed27bb8
+SHA1: 51dd4437c84fea8b4c27f35e82de473dc1013cbf
+SHA256: 1a670e92dc6bdc42643d2ec0af2ec464eb26a40c05d9d6e23512b3f7ec600f4f
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: JWI Master
 Name: DVDBounce
+
+Package: jwi
+Version: 0.0.1-49+debug
+Architecture: iphoneos-arm64
+Maintainer: J_W_I_
+Installed-Size: 352
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal
+Filename: ./debs/jwi_0.0.1-49+debug_iphoneos-arm64.deb
+Size: 12290
+MD5sum: bfdf1dd767dbe5e3bb421d0bf61839f4
+SHA1: a2aa3525ac9ee512e55f5d83bc6d579e773cd9f6
+SHA256: 59a991770bc62eec3e7203db7b5ffa375063392d06f50ee887f9beff300f96db
+Section: Tweaks
+Description: Give your notifications style!
+Author: J_W_I_
+Name: NotificationGlow2
 
